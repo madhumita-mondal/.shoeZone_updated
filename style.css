@@ -40,7 +40,7 @@ nav {
 
 .limitedOffer {
   font-size: 20px;
-  border-bottom: 2px solid green;
+  border-bottom: 2px solid rgb(239, 137, 40);
   cursor: pointer;
 }
 
